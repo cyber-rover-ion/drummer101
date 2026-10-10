@@ -1,26 +1,26 @@
 # drummer101
 
-A lightweight browser-based virtual drum kit that lets users play percussion sounds with a PC keyboard.
+A lightweight browser-based virtual drum kit controlled with a computer keyboard.
 
 ## Overview
 
-drummer101 is a small client-side music project focused on quick keyboard-driven interaction. The repository contains the core drum mapping and is intended as a simple foundation for browser-based percussion experiments.
+drummer101 is a small interactive music project that lets users trigger percussion sounds through keyboard input. It provides a simple starting point for experimenting with browser-based drumming and audio interaction.
 
 ## Features
 
-- Keyboard-controlled drum input
-- Browser-based interaction
-- Lightweight implementation
-- Simple foundation for adding sounds and visual feedback
+- Keyboard-driven percussion
+- Browser-based interface
+- Direct, lightweight interaction
+- A foundation for experimenting with sound and visual feedback
 
 ## Usage
 
-Open the project in a modern browser and use the keyboard controls provided by the current implementation.
+Open the project's HTML entry point in a modern browser and use the keyboard controls implemented in the current version. Refer to the on-screen prompts, if available, for the supported keys.
 
-## Scope
+## Project Scope
 
-The project is intentionally small and focused on the basic experience of using a computer keyboard as a virtual drum interface.
+The project focuses on the core virtual-drum experience rather than a full digital audio workstation.
 
-## Creator
+## Maintainer
 
-Made by **JebinTech**.
+**JebinTech**
